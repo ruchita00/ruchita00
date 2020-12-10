@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ruchita Sagalgile</h1>
 <h3 align="center">A passionate Full-Stack Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchita00&label=Profile%20views&color=129e00&style=plastic" alt="ruchita00" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
 
 I'm a Fresh Graduated in Computer Science from Pune University. I'm a Full-Stack Enthusiast. I am working on React Projects. I have done 2 projects on Web Development skills where I used HTML5, CSS3, JavaScript, React-Js for frontend and Node-Js, Express-Js, Context-API, mongoDB, SQL for backend. I want to become a Full Stack Developer. I am also contributing to open source projects on GitHub. A part from this I have good programming language Java and Data Structure and Algorithms I usually coding in Java. I'm also SAP ABAP Global Certified. Apart from this I love to travel and Dancing.
 ----
