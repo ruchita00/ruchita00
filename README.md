@@ -1,4 +1,4 @@
-![I am a Full-Stack Enthusiast.](https://media-exp1.licdn.com/dms/image/C4D16AQFkHMFXOy4XEA/profile-displaybackgroundimage-shrink_350_1400/0?e=1609977600&v=beta&t=yaRWcXVXrWM09tZkkL_G5axJzMU6rd0RMiJssn6NyDA)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQE8GZJLr56zQA/profile-displaybackgroundimage-shrink_350_1400/0/1606369867304?e=1613001600&v=beta&t=pGOjbEdNSnNEduNITvPHc8lvNi8wmMJSBjGDI73kjPY)
 
 # Hi there 👋, I'm Ruchita Sagalgile
 
