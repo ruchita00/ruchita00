@@ -4,9 +4,10 @@
 <h3 align="center">A passionate Full-Stack Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchita00&label=Profile%20views&color=129e00&style=plastic" alt="ruchita00" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchita00" alt="ruchita00" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **React-JS**
 
