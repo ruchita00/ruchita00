@@ -2,8 +2,7 @@
 
 # Hi there 👋, I'm Ruchita Sagalgile
 
-I'm Ruchita Sagalgile from Pune and I'm a Full-Stack Enthusiast. I am working on React Projects. I have done 2 projects on Web Development skills where I used HTML5, CSS3, JavaScript, React-Js for frontend and Node-Js, Express-Js, Context-API, mongoDB, SQL for backend. A part from this I have good programming language Java and Data Structure and Algorithms I usually coding in Java. I'm also SAP ABAP Global Certified. Apart from this I love to travel and Dancing.
-
+I'm a Fresh Graduated in Computer Science from Pune University. I'm a Full-Stack Enthusiast. I am working on React Projects. I have done 2 projects on Web Development skills where I used HTML5, CSS3, JavaScript, React-Js for frontend and Node-Js, Express-Js, Context-API, mongoDB, SQL for backend. I want to become a Full Stack Developer. I am also contributing to open source projects on GitHub. A part from this I have good programming language Java and Data Structure and Algorithms I usually coding in Java. I'm also SAP ABAP Global Certified. Apart from this I love to travel and Dancing.
 ----
 
 ### My Skills 🚀
