@@ -32,8 +32,6 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
 
-
-[instagram]: https://www.instagram.com/carol_ruchi/
 [linkedin]: https://www.linkedin.com/in/ruchita-sagalgile-0a4843171/
 [gmail]: mailto:http://www.ruchitasagalgile04@gmail.com
 [twitter1]: https://twitter.com/RuchitaSagalgi1
