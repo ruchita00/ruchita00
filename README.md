@@ -1,19 +1,18 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQE8GZJLr56zQA/profile-displaybackgroundimage-shrink_350_1400/0/1606369867304?e=1613001600&v=beta&t=pGOjbEdNSnNEduNITvPHc8lvNi8wmMJSBjGDI73kjPY)
+<h1 align="center">Hi 👋, I'm Ruchita Sagalgile</h1>I'm an Aspiring Software developer looking out for new opportunities 🗻<h3 align="center"></h3>
 
-<h1 align="center">Hi 👋, I'm Ruchita Sagalgile</h1>
-<h3 align="center">A passionate Full-Stack Enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchita00&label=Profile%20views&color=129e00&style=plastic" alt="ruchita00" /> </p>
+<p align="left"> <img src="https://komarev.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchita00" alt="ruchita00" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+-   I ❤️ building new things and Learning something new everyday 🌞.
 
-- 🌱 I’m currently learning **React-JS**
+- 🌱 I’m currently learning **MERN** statck.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruchita00](https://github.com/ruchita00)
+-   Practicing clean code ✨.
 
-- 💬 Ask me about **React, JavaScript, HTML5, CSS3**
+-   Full Stack Enthusiast.
+
+- 💬 Ask me about **React, Node-JS, JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **ruchitasagalgile04@gmail.com**
 
