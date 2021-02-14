@@ -40,24 +40,19 @@
 
 
 
+### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchita00&show_icons=true&locale=en&layout=compact" alt="ruchita00" /></p>
+<a href="#stats">
+<img align="center" alt="Ruchita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruchita00&show_icons=true&locale=en" /></a>
+</br>
+</br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchita00&show_icons=true&locale=en" alt="ruchita00" /></p>
+<a href="#stats">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=ruchita00&show_icons=true&locale=en&layout=compact" />
+</a>
+</br>
+</br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchita00&" alt="ruchita00" /></p>
-
-
-
-
-### Connect with me:
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-
-
-[instagram]: https://www.instagram.com/carol_ruchi/
-[linkedin]: https://www.linkedin.com/in/ruchita-sagalgile-0a4843171/
-[gmail]: mailto:http://www.ruchitasagalgile04@gmail.com
-[twitter1]: https://twitter.com/RuchitaSagalgi1
+<p><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ruchita00&" alt="ruchita00" /></p>
+</br>
+</br>
