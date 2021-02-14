@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchita Sagalgile</h1>I'm an Aspiring Software developer looking out for new opportunities 🗻<h3 align="center"></h3>
-
-<p align="left"> <img src="https://komarev.com
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchita00" alt="ruchita00" /></a> </p>
+<h1 align="center"><h3 align="center">Hi 👋, I'm Ruchita Sagalgile</h1>I'm an Aspiring Software developer looking out for new opportunities 🗻</h3>
 
 -   I ❤️ building new things and Learning something new everyday 🌞.
 
