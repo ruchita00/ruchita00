@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Ruchita Sagalgile
 
-https://www.canva.com/design/DAF6BWiCPoo/NXvm6Bv9WV8kMqre7dkpyQ/edit?utm_content=DAF6BWiCPoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img src='https://github.com/ruchita00/ruchita00/blob/main/Copy%20of%20Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(1).png' />
 
 -   I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
