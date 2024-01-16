@@ -1,8 +1,9 @@
+![logo](https://github.com/ruchita00/ruchita00/blob/main/Copy%20of%20Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).png
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchita00&label=Profile%20views&color=0e75b6&style=flat" alt="ruchita00" /> </p>
 
 ## Hi there 👋 I'm Ruchita Sagalgile
 
-<img src="https://github.com/ruchita00/ruchita00/blob/main/Copy%20of%20Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).png" />
 -   I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
 -   I ❤️ building new things and Learning something new everyday 🌞.
