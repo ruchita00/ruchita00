@@ -2,6 +2,8 @@
 
 ## Hi there 👋 I'm Ruchita Sagalgile
 
+https://www.canva.com/design/DAF6BWiCPoo/NXvm6Bv9WV8kMqre7dkpyQ/edit?utm_content=DAF6BWiCPoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 -   I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
 -   I ❤️ building new things and Learning something new everyday 🌞.
