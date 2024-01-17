@@ -51,7 +51,6 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ruchitasagalgil1)
 
 
-
 ## ♨ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -85,6 +84,10 @@
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ruchita00&layout=compact&theme=flat&column=4&row=1)
+
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
@@ -96,3 +99,15 @@
 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruchita00&show_icons=true&locale=en&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="  Most Language Uses" /></div>
+
+<br/> <br/>
+
+## ♨ MostLanguage Uses:
+
+<div align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita00&theme=transparent&include_all_commits=true" />
+</div>
+
+
+
+
+
