@@ -15,7 +15,7 @@
 <br/>
 
 
-🔭 I’m currently working on **YouTube Clone Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working on **NetFlixGPT Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **React js by doing Project**
 
